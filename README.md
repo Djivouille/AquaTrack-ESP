@@ -23,8 +23,11 @@ Le boîtier est conçu pour protéger les composants électroniques des élémen
 ## LE HARDWARE
 
 - Webmos D1 Mini Pro
-- Capteur de débit d'eau
-![le schéma du montage prévu](/docs/G1inch_Water_Flow_sensor.jpeg)
+# Capteur de débit d'eau
+G1 Water Flow Sensor
+![SEA WaterFlow Sensor image](G1inch_Water_Flow_sensor.jpeg)
+et se Data Sheet
+![SEA WaterFlow Sensor DataSheet](YF-G1 DN25 1inch Water Flow Sensor.pdf)
 
 
 ![Hardware Setup](images/hardware_setup.png)
