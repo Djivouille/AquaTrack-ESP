@@ -24,8 +24,8 @@ A Faire en Impression 3D ....
 G1 Water Flow Sensor
 ![SEA WaterFlow Sensor image](G1inch_Water_Flow_sensor.jpeg)
 
-et sa Data Sheet :[Lire la documentation](docs/YF-G1 DN25 1inch Water Flow Sensor.pdf)  
+et sa Data Sheet :[YF-G1 DN25 1inch Water Flow Sensor.pdf](YF-G1 DN25 1inch Water Flow Sensor.pdf)  
 
 ## LE YAML pour ESP HOME
 
-Disponiblible ici : wifi-waterpumpflow.yaml
+Disponiblible ici : [wifi-waterpumpflow.yaml](wifi-waterpumpflow.yaml)  
