@@ -25,7 +25,11 @@ A Faire en Impression 3D ....
 <img src="G1inch_Water_Flow_sensor.jpeg" alt="SEA WaterFlow Sensor image" width="500"/>
 
 et sa Data Sheet : [YF-G1 DN25 1inch Water Flow Sensor](YF-G1%20DN25%201inch%20Water%20Flow%20Sensor.pdf)
- 
+
+## LE CÂBLAGE
+Voici le schéma du montage prévu.
+
+<img src="AquaTrack ESP.png" alt="Schéma de câblage" width="500"/>
 
 ## LE YAML pour ESP HOME
 
