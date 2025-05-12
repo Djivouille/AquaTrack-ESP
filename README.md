@@ -4,7 +4,7 @@
 
 ## LE PROJET
 
-AquaTrack ESP est un projet DIY qui permet de mesurer la quantité d'eau consommée en utilisant un Webmos D1 Mini Pro et un capteur de débit d'eau. Le projet est basé sur ESPHome pour une intégration facile avec les systèmes domotiques.
+AquaTrack ESP est un projet DIY qui permet de mesurer la quantité d'eau consommée en utilisant un Webmos D1 Mini Pro et un capteur de débit d'eau. Le projet est basé sur ESPHome pour une intégration facile avec [Home Assistant](https://www.home-assistant.io/).
 
 
 ## LES PRÉ-REQUIS
