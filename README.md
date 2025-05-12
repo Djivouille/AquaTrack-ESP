@@ -23,7 +23,8 @@ A Faire en Impression 3D ....
 # Capteur de débit d'eau
 G1 Water Flow Sensor
 ![SEA WaterFlow Sensor image](G1inch_Water_Flow_sensor.jpeg)
-et se Data Sheet : Liens vers : YF-G1 DN25 1inch Water Flow Sensor.pdf
+
+et sa Data Sheet :[Lire la documentation](docs/YF-G1 DN25 1inch Water Flow Sensor.pdf)  
 
 ## LE YAML pour ESP HOME
 
