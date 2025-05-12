@@ -1,0 +1,61 @@
+esphome:
+  name: wifi-waterpumpflow
+  friendly_name: Wifi_WaterPumpFlow
+
+esp8266:
+  board: esp01_1m
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "FgoXgkFjSQbH/8e9MHbhBcfZ+IXZ+ZgIhLI7xr3nUq8="
+
+ota:
+  - platform: esphome
+    password: "89ff062a3115881b336e21b430b31f4a"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Wifi-Waterpumpflow"
+    password: "Or27xMbvwTvZ"
+
+captive_portal:
+sensor:
+  - platform: pulse_counter
+    state_class: measurement
+    name: "Débit d'eau"
+    id: debit_eau
+    pin: GPIO0
+    update_interval: 1s
+    filters:
+    - lambda: return (x / 450.0); #Flow pulse: F=(6.68Q)±5% with Q=L/min
+    unit_of_measurement: "L/min"
+
+  - platform: integration
+    device_class: water
+    state_class: total_increasing
+    name: "Eau en m³"
+    unit_of_measurement: "m³"
+    accuracy_decimals: 4
+    sensor: debit_eau
+    time_unit: min
+    icon: "mdi:water"
+    filters:
+        - lambda: return (x / 1000);
+
+  - platform: integration
+    device_class: water
+    state_class: total_increasing
+    name: "Eau en litres"
+    unit_of_measurement: "L"
+    accuracy_decimals: 2
+    sensor: debit_eau
+    time_unit: min
+    icon: "mdi:water"
