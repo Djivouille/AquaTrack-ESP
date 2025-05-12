@@ -29,7 +29,7 @@ et sa Data Sheet : [YF-G1 DN25 1inch Water Flow Sensor](YF-G1%20DN25%201inch%20W
 ## LE CÂBLAGE
 Voici le schéma du montage prévu.
 
-<img src="AquaTrack ESP.png" alt="Schéma de câblage" width="500"/>
+<img src="AquaTrack ESP.png" alt="Schéma de câblage">
 
 ## LE YAML pour ESP HOME
 
