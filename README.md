@@ -20,6 +20,7 @@ A Faire en Impression 3D ....
 ## LE HARDWARE
 
 - Webmos D1 Mini Pro
+  
   <img src="Wemos D1 Mini Pro.png" alt="Wemos D1 Mini Pro image" width="250"/>
 
 - Capteur de débit d'eau : G1 Water Flow Sensor
