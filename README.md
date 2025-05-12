@@ -43,3 +43,10 @@ sensor:
     total:
       name: "Total Water Usage"
       unit_of_measurement: "L"
+
+
+## UTILISATION
+Une fois installé, AquaTrack ESP mesurera et enregistrera la quantité d'eau consommée. Vous pouvez accéder aux données via l'interface ESPHome ou tout autre système domotique compatible.
+
+## CONTRIBUTION
+Les contributions à ce projet sont les bienvenues. N'hésitez pas à soumettre des pull requests ou à ouvrir des issues pour discuter des améliorations possibles.
