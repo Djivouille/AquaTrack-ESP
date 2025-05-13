@@ -42,17 +42,18 @@ où :
  - Q est le débit en litres par minute (L/min).
 
 Calcul de la quantité d'eau par impulsion
-Convertir la fréquence en impulsions par litre :
+
+1 Convertir la fréquence en impulsions par litre :
 
 La formule f=4.8×Q peut être réarrangée pour trouver le nombre d'impulsions par litre.
 
-Si Q=1 L/min, alors f = 4.8
-f=4.8 Hz, ce qui signifie 4.8 impulsions par litre.
+- Si Q=1 L/min, alors f = 4.8
+- f=4.8 Hz, ce qui signifie 4.8 impulsions par litre.
 
-Calculer la quantité d'eau par impulsion :
-Pour trouver la quantité d'eau par impulsion, nous prenons l'inverse du nombre d'impulsions par litre.
-Quantite d’eau par impulsion = 1 4.8
-Quantite d’eau par impulsion = 4.8 / 1 litres par impulsion.
+2 Calculer la quantité d'eau par impulsion :
+- Pour trouver la quantité d'eau par impulsion, nous prenons l'inverse du nombre d'impulsions par litre.
+- Quantite d’eau par impulsion = 1 4.8 = Quantite d’eau par impulsion = 4.8 / 1 litres par impulsion.
+
 Calculons cela :
 
 D'après la fiche technique du capteur de débit d'eau YF-G1, chaque impulsion correspond à environ 0,208 litres d'eau. Cela signifie que pour chaque impulsion générée par le capteur, environ 0,208 litres d'eau ont traversé le capteur.
