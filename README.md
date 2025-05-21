@@ -19,8 +19,7 @@ AquaTrack ESP est un projet DIY qui permet de mesurer la quantité d'eau consomm
 |------------|------------|
 | <img src="Image/BoitierFusion360.png" alt="BoitierFusion360" width="400"/> | Photos à venir... |
 
-Source :  [SourceFusion360/Boitier AquaTrack v2](SourceFusion360/Boitier AquaTrack v2.f3d)
-
+Source : [Boitier AquaTrack v2](SourceFusion360/Boitier AquaTrack v2.f3d)
 
 ## LE HARDWARE
 
