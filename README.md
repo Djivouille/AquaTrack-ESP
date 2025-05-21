@@ -32,7 +32,9 @@ AquaTrack ESP est un projet DIY qui permet de mesurer la quantité d'eau consomm
 
 
 
-et sa Data Sheet : [YF-G1 DN25 1inch Water Flow Sensor](YF-G1%20DN25%201inch%20Water%20Flow%20Sensor.pdf)
+
+
+
 
 ## CALCUL DE LA QUANTITE D'EAU PAR IMPLUSION
 
