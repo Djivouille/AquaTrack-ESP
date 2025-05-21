@@ -23,13 +23,13 @@ Source : [Boitier AquaTrack v2](SourceFusion360/Boitier AquaTrack v2.f3d)
 
 ## LE HARDWARE
 
-- Webmos D1 Mini Pro
-  
-  <img src="Wemos D1 Mini Pro.png" alt="Wemos D1 Mini Pro image" width="250"/>
+| Webmos D1 Mini Pro| Capteur de débit d'eau : G1 Water Flow Sensor | 
+|------------|------------| 
+| <img src="Wemos D1 Mini Pro.png" alt="Wemos D1 Mini Pro image" width="250"/>| <img src="G1inch_Water_Flow_sensor.jpeg" alt="SEA WaterFlow Sensor image" width="500"/> | 
 
-- Capteur de débit d'eau : G1 Water Flow Sensor
 
-<img src="G1inch_Water_Flow_sensor.jpeg" alt="SEA WaterFlow Sensor image" width="500"/>
+
+
 
 et sa Data Sheet : [YF-G1 DN25 1inch Water Flow Sensor](YF-G1%20DN25%201inch%20Water%20Flow%20Sensor.pdf)
 
