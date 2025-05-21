@@ -66,7 +66,7 @@ D'après la fiche technique du capteur de débit d'eau YF-G1, chaque impulsion c
 ## LE CÂBLAGE
 Voici le schéma du montage prévu.
 
-<img src="AquaTrack ESP.png" alt="Schéma de câblage">
+<img src="Image/AquaTrack ESP.png" alt="Schéma de câblage">
 
 ## LE YAML pour ESP HOME
 
