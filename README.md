@@ -70,4 +70,4 @@ Voici le schéma du montage prévu.
 
 ## LE YAML pour ESP HOME
 
-Disponiblible ici : [wifi-waterpumpflow.yaml](wifi-waterpumpflow.yaml)  
+Disponible ici : [wifi-waterpumpflow.yaml](wifi-waterpumpflow.yaml)  
